@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">" Sapper"</string>
+    <string name="sChoiceDifficult">Выберите сложность:</string>
+    <string name="Reset">Reset</string>
+    <string name="setFlag">setFlag</string>
+    <string name="Hard">Hard</string>
+    <string name="Normal">Normal</string>
+    <string name="Easy">Easy</string>
+    <string name="Smile">abc</string>
+</resources>
